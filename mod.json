@@ -1,0 +1,18 @@
+{
+  "geode": "4.7.0",
+  "gd": {
+    "win": "2.2074",
+    "mac": "2.2074",
+    "android": "2.2074",
+    "ios": "2.2074"
+  },
+  "id": "frenchfrysays.test",
+  "name": "Test",
+  "version": "v1.0.0",
+  "developer": "frenchfrysays",
+  "description": "Test mod",
+  "links": {
+    "source": "https://github.com/frenchfrysays/geode-mod-test",
+    "homepage": "https://frenchfrysays.neocities.org/mods/geode-mod-test"
+  }
+}
