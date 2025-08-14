@@ -43,3 +43,8 @@
 # Build folder
 build/*
 out/*
+
+# IDE Files
+*.sln
+.vs/*
+.vscode/*
